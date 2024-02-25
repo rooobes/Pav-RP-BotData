@@ -1,2 +1,6 @@
-Author: Donator+#0000
-Content: !notify Generaljoe61958vr,Generaljoe61958 joel@hurds.co.uk
+{
+  "donators": [
+    "UsernameExample1",
+    "UsernameExample2"
+  ]
+}
