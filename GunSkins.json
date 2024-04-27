@@ -1,28 +1,5 @@
 {
-  "lrm426": [
-    "Mp5Core",
-    "Fiya57",
-    "DoodleAwp",
-    "NerdGlock",
-    "DeadShot"
-  ],
-  "Bob6315_2.0": [
-    "Mp5Core",
-    "Fiya57",
-    "DoodleAwp",
-    "NerdGlock",
-    "DeadShot"
-  ],
-  "Generaljoe61958": [
-    "Mp5Core",
-    "Fiya57",
-    "DoodleAwp",
-    "NerdGlock",
-    "DeadShot",
-    "Mp5Core",
-    "Fiya57",
-    "DoodleAwp",
-    "NerdGlock",
-    "DeadShot"
-  ]
+"GameUsername1": ["Mp5Core","Fiya57","DoodleAwp","NerdGlock","DeadShot"],
+"GameUsername2": ["Mp5Core","Fiya57","DoodleAwp","NerdGlock","DeadShot"],
+"GameUsername3": ["Mp5Core","Fiya57","DoodleAwp","NerdGlock","DeadShot"]
 }
